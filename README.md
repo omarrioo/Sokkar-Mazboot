@@ -1,2 +1,2 @@
 # Ad-Rangers
-Ad Rangers DEPI Project.
+Ad Rangers DEPI Project
