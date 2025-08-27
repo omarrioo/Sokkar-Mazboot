@@ -1,1 +1,1 @@
-# Sokkar Mazboot by Aya Gamal
+# Sokkar Mazboot - Aya Gamal
